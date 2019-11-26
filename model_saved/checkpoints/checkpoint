@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:\\\351\241\271\347\233\256\\naics_industry_classification\\runs\\1574307805\\checkpoints\\model-208900"
+all_model_checkpoint_paths: "D:\\\351\241\271\347\233\256\\naics_industry_classification\\runs\\1574307805\\checkpoints\\model-208500"
+all_model_checkpoint_paths: "D:\\\351\241\271\347\233\256\\naics_industry_classification\\runs\\1574307805\\checkpoints\\model-208600"
+all_model_checkpoint_paths: "D:\\\351\241\271\347\233\256\\naics_industry_classification\\runs\\1574307805\\checkpoints\\model-208700"
+all_model_checkpoint_paths: "D:\\\351\241\271\347\233\256\\naics_industry_classification\\runs\\1574307805\\checkpoints\\model-208800"
+all_model_checkpoint_paths: "D:\\\351\241\271\347\233\256\\naics_industry_classification\\runs\\1574307805\\checkpoints\\model-208900"
